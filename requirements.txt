@@ -1,0 +1,10 @@
+streamlit>=1.35
+google-genai>=1.0
+requests>=2.31
+beautifulsoup4>=4.12
+python-dotenv>=1.0
+pytest>=8.0
+deepagents>=0.7
+langchain-google-genai>=4.0
+mcp>=1.2
+langchain-mcp-adapters>=0.1

@@ -1,0 +1,35 @@
+{
+  "preferences": {
+    "priorities": "",
+    "weights": {
+      "evidence_strength": 1,
+      "cost": 1,
+      "feasibility": 1,
+      "fairness": 1,
+      "risk": 1
+    }
+  },
+  "approved_reports": [
+    {
+      "date": "2026-10-27",
+      "question": "How can the Indian government reduce AI-generated misinformation? Compare 3 policy options, score them using the criteria weights, provide reliable source links, and recommend the best option in a short table.",
+      "option_names": [
+        "Mandatory AI Watermarking and Provenance Standards",
+        "Enhanced Platform Liability and Regulatory Enforcement under IT Rules",
+        "Scaled Digital Literacy and Fact-Checking Network Support"
+      ],
+      "source_urls": [
+        "https://www.bsa.org/files/policy-filings/11042025bsaindcmtsit.pdf",
+        "https://www.facebook.com/ForbesIndia/posts/indias-amended-it-rules-bring-ai-generated-and-synthetic-content-under-tighter-o/1303645938467664/",
+        "https://iapp.org/news/a/indias-foray-into-regulating-ai",
+        "https://www.meity.gov.in/static/uploads/2024/02/9f6e99572739a3024c9cdaec53a0a0ef.pdf",
+        "https://www.hammurabisolomon.in/post/mandatory-watermarking-and-labelling-of-ai-generated-content",
+        "https://carnegieendowment.org/india/research/2024/11/indias-advance-on-ai-regulation",
+        "https://www.facebook.com/pibindia/posts/government-strengthens-framework-to-counter-ai-generated-deepfakes-through-legal/1636971715137287/",
+        "https://carnegieendowment.org/videos/2025/01/indias-ai-regulation-journey-key-insights-and-policy-pathways",
+        "https://carnegieendowment.org/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide",
+        "https://www.linkedin.com/posts/lloyd-mathias_deepfake-challenge-in-india-why-content-activity-7419022625722617856-EFZy"
+      ]
+    }
+  ]
+}
